@@ -1,5 +1,5 @@
 # swapper 
-made by jim_ra#1708 updated by mtbr_29#0850
+made by jim_rat#1708 updated by mtbr_29#0850
 [1] Open the cmd/command prompt.
 [2] Now To Use the swapper simply follow this -> Usage: Swapper.exe <ucas-file> <hex-to-search> <hex-to-replace> 
 BUT Replace <> with "" 
