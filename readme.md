@@ -1,11 +1,11 @@
 # swapper
 <br> 
-**[info]**
-<br>
+
+**Info**<br>
 Made by jim_rat#1708 updated by mtbr_29#0850 
 <br>
 <br>
-**[tutorial]**<br>
+**tutorial**<br>
 [1] Open the cmd/command prompt. <br>
 [2] Now To Use the swapper simply follow this -> Usage: Swapper.exe <ucas-file> <hex-to-search> <hex-to-replace> <br>
 BUT Replace <> with "" <br>
