@@ -22,7 +22,8 @@ Created by jim_rat#1708, updated by mtbr_29#0850
  <br>
    Then, simply press Enter.
 <br><br>
-**Note!** <br>
+**Note!**
+<br>
 You need to drag the `.ucas` file from the `pak` folder into the console. Sometimes the quotation marks (`""`) are added automatically when you drag the file, but make sure they are there. <br>
 -> **This only applies when dragging the UCAS file!** <br><br>
 
