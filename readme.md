@@ -28,6 +28,6 @@ You need to drag the `.ucas` file from the `pak` folder into the console. Someti
 ->
 **This only applies when dragging the UCAS file!**
     <br><br>
-
+thanks to verze
 Happy Swapping and modding!<br>
 Sincerely, Jim and mtbr.
